@@ -79,3 +79,4 @@ Se aplica borrado lógico mediante el campo `estado`, marcando los registros com
 ![Vista móvil](capturas/movil.png)
 
 link del git
+https://github.com/isaacsaferheredia-hash/veterinaria
