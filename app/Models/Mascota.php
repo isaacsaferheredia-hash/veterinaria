@@ -35,6 +35,7 @@ class Mascota extends Model
 
     static public function deleteMascota(Mascota $mascota){
         $mascota->estado='inactivo';
+        $mascota->deleted_at =now();
         $mascota->save();
         return $mascota;
     }
